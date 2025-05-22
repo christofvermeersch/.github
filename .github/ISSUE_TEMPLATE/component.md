@@ -2,9 +2,9 @@
 name: Component
 about: Describe a component that needs to be implemented
 title: "[Component]"
-labels: ''
+labels: development
 assignees: christofvermeersch
 
 ---
 
-_(This is an internal issue submitted by the MacaulayLab team)_
+_(This is an internal issue submitted by the developers)_
