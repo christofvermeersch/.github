@@ -7,4 +7,4 @@ assignees: christofvermeersch
 
 ---
 
-_(This is an internal issue submitted by the developers)_
+_(The issue have been created by the development team.)_
