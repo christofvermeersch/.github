@@ -7,4 +7,4 @@ assignees: christofvermeersch
 
 ---
 
-_(The issue have been created by the development team.)_
+_(The issue has been created by the development team.)_
